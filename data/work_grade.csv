@@ -1,0 +1,106 @@
+ID,sex,department,work_hour,achievement,grade
+1,male,A,1756,so many,3.59
+2,male,C,1709,little,3.46
+3,female,A,1915,medium,3.47
+4,female,B,1824,medium,3.44
+5,male,A,1764,very little,2.74
+6,female,B,1794,very little,2.18
+7,male,B,1668,little,3.16
+8,male,C,1860,little,3.65
+9,male,C,1751,medium,3.13
+10,female,C,1765,so many,3.71
+11,male,C,1760,little,2.95
+12,male,B,1885,many,3.28
+13,male,B,1812,medium,2.9
+14,male,A,1784,medium,3.26
+15,female,A,1841,medium,3.24
+16,male,B,1661,little,3.31
+17,male,A,1594,very little,2.83
+18,male,C,1876,medium,3.61
+19,male,B,1890,medium,3.52
+20,male,B,1877,many,3.78
+21,female,A,1795,so many,4.05
+22,male,A,1881,little,3.19
+23,female,A,1750,little,3.01
+24,female,A,1723,medium,3.1
+25,female,A,1851,very little,2.97
+26,female,A,1689,so many,3.65
+27,female,C,1797,little,3.03
+28,male,A,2041,so many,4.36
+29,female,B,1855,little,3.31
+30,female,A,1819,very little,2.54
+31,male,A,1703,very little,2.91
+32,female,A,1890,many,3.88
+33,female,B,1739,many,3.46
+34,female,B,1900,medium,3.67
+35,male,C,1785,little,2.97
+36,male,C,1923,very little,3.43
+37,male,B,2007,little,3.38
+38,female,B,1720,medium,3.17
+39,female,C,1769,so many,3.77
+40,female,C,1963,very little,2.84
+41,male,A,1720,medium,3.55
+42,female,B,2083,medium,3.97
+43,female,A,1716,little,2.95
+44,female,B,1763,very little,2.71
+45,female,A,1899,very little,2.76
+46,male,C,1875,many,3.63
+47,female,B,1771,medium,3.03
+48,female,C,1983,medium,3.51
+49,male,B,1954,many,3.69
+50,male,A,1825,medium,3.56
+51,female,A,1795,so many,3.82
+52,male,A,1786,very little,2.53
+53,male,A,1830,little,3.74
+54,male,A,1992,many,3.73
+55,male,B,1983,so many,4.11
+56,female,C,1790,little,3.21
+57,male,B,1745,medium,3.33
+58,female,A,1807,so many,4.14
+59,male,A,1899,many,3.7
+60,female,B,1776,medium,3.14
+61,female,A,1694,many,3.53
+62,male,B,1731,medium,3.17
+63,male,C,1803,so many,3.79
+64,female,C,1820,little,3.15
+65,male,C,1793,so many,4.02
+66,female,C,1787,medium,3.36
+67,female,A,1727,little,2.72
+68,female,C,1733,so many,3.63
+69,female,C,1874,medium,3.57
+70,female,B,1718,little,2.67
+71,female,C,1771,so many,3.69
+72,female,B,1820,so many,3.79
+73,male,A,1815,very little,2.71
+74,male,C,1844,many,3.85
+75,female,C,1701,so many,3.7
+76,male,C,1816,many,3.91
+77,female,B,1813,little,3.16
+78,female,B,2019,many,3.94
+79,male,C,1983,little,3.24
+80,female,A,1596,many,3.26
+81,male,B,1732,so many,3.82
+82,female,C,1735,little,2.89
+83,male,A,1654,very little,2.92
+84,female,C,1713,many,3.55
+85,female,B,1687,little,3.27
+86,female,B,1728,medium,2.91
+87,male,B,1709,so many,3.96
+88,male,B,1883,very little,3.01
+89,female,C,1518,medium,2.74
+90,female,B,1635,so many,3.4
+91,male,B,1797,many,3.45
+92,male,A,1672,medium,2.62
+93,female,A,1896,many,3.8
+94,male,B,1848,many,3.69
+95,male,A,1696,medium,3.37
+96,female,C,1952,very little,3.33
+97,male,A,1936,little,3.25
+98,male,C,1861,many,3.5
+99,male,C,1642,medium,3.03
+100,male,C,1659,medium,3.25
+101,male,B,1735,little,1.83
+102,female,C,1728,very little,1.74
+103,female,A,2360,so many,4.92
+104,male,C,2212,so many,4.83
+105,female,C,2135,so many,4.75
